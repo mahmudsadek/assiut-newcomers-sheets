@@ -1,2 +1,2 @@
-# assiut-sheet-newcomers
-ICPC Assiut University Community Newcomers Training
+# ICPC Assiut University Community Newcomers Training
+## sheets solutions 
