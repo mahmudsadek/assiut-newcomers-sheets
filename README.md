@@ -2,5 +2,5 @@
 ## sheets solutions 
 
 
-## CHECK OUT MY CODEFORCES PROFILE [hotpie](https://codeforces.com/profile/hotpie) !
+## VISIT MY CODEFORCES PROFILE [hotpie](https://codeforces.com/profile/hotpie) !
 
